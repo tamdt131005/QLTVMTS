@@ -1,0 +1,10 @@
+D:\QLTVMTS\QLMT\bin\Debug\QLMT.exe.config
+D:\QLTVMTS\QLMT\bin\Debug\QLMT.exe
+D:\QLTVMTS\QLMT\bin\Debug\QLMT.pdb
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.csproj.AssemblyReference.cache
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.MDIfrm.resources
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.Properties.Resources.resources
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.csproj.GenerateResource.cache
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.csproj.CoreCompileInputs.cache
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.exe
+D:\QLTVMTS\QLMT\obj\Debug\QLMT.pdb
