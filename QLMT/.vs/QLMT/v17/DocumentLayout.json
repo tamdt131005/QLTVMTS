@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -33,13 +29,21 @@
               "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MDIfrm.cs [Design]",
               "DocumentMoniker": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs",
               "RelativeDocumentMoniker": "MDIfrm.cs",
-              "ToolTip": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs [Design]*",
-              "RelativeToolTip": "MDIfrm.cs [Design]*",
+              "ToolTip": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs [Design]",
+              "RelativeToolTip": "MDIfrm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T13:37:19.388Z",
               "EditorCaption": " [Design]"

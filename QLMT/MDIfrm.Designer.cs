@@ -32,6 +32,7 @@
             this.hệThốngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.đăngXuấtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýDanhMụcToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.fsfsvdsvToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,14 +59,22 @@
             // đăngXuấtToolStripMenuItem
             // 
             this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
-            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(162, 26);
             this.đăngXuấtToolStripMenuItem.Text = "Đăng Xuất";
             // 
             // quảnLýDanhMụcToolStripMenuItem
             // 
+            this.quảnLýDanhMụcToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fsfsvdsvToolStripMenuItem});
             this.quảnLýDanhMụcToolStripMenuItem.Name = "quảnLýDanhMụcToolStripMenuItem";
             this.quảnLýDanhMụcToolStripMenuItem.Size = new System.Drawing.Size(146, 24);
             this.quảnLýDanhMụcToolStripMenuItem.Text = "Quản Lý Danh Mục";
+            // 
+            // fsfsvdsvToolStripMenuItem
+            // 
+            this.fsfsvdsvToolStripMenuItem.Name = "fsfsvdsvToolStripMenuItem";
+            this.fsfsvdsvToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.fsfsvdsvToolStripMenuItem.Text = "fsfsvdsv";
             // 
             // MDIfrm
             // 
@@ -89,6 +98,7 @@
         private System.Windows.Forms.ToolStripMenuItem hệThốngToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem đăngXuấtToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem quảnLýDanhMụcToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem fsfsvdsvToolStripMenuItem;
     }
 }
 
