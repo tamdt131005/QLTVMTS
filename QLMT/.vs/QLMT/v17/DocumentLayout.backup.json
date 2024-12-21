@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{284D8859-F921-4930-89A3-62C65E7D4CD4}|QLMT.csproj|d:\\qltvmts\\qlmt\\mdifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{284D8859-F921-4930-89A3-62C65E7D4CD4}|QLMT.csproj|solutionrelative:mdifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D8859-F921-4930-89A3-62C65E7D4CD4}|QLMT.csproj|D:\\QLTVMTS\\QLMT\\mdifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D8859-F921-4930-89A3-62C65E7D4CD4}|QLMT.csproj|solutionrelative:mdifrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,12 +42,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MDIfrm.cs",
+              "DocumentMoniker": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs",
+              "RelativeDocumentMoniker": "MDIfrm.cs",
+              "ToolTip": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs",
+              "RelativeToolTip": "MDIfrm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:19:36.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MDIfrm.cs [Design]",
               "DocumentMoniker": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs",
               "RelativeDocumentMoniker": "MDIfrm.cs",
-              "ToolTip": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs [Design]*",
-              "RelativeToolTip": "MDIfrm.cs [Design]*",
+              "ToolTip": "D:\\QLTVMTS\\QLMT\\MDIfrm.cs [Design]",
+              "RelativeToolTip": "MDIfrm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T13:37:19.388Z",
               "EditorCaption": " [Design]"

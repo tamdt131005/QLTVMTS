@@ -16,5 +16,10 @@ namespace QLMT
         {
             InitializeComponent();
         }
+
+        private void kếtThúcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
